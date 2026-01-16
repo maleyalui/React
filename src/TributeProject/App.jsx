@@ -1,12 +1,12 @@
 import Header from "./Header/Header";
 import MainSection from "./MainSection/MainSection";
-function App () {
-    return (
-        <div className="bg-[url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDODJGWI5rcm3v7cExTfQK695Y9_b0JPj9g&s)">
-            <Header />
-            <MainSection />
-        </div>
-    );
+function App() {
+  return (
+    <div className="p-4 bg-gray-200">
+      <Header />
+      <MainSection />
+    </div>
+  );
 }
 
 export default App;

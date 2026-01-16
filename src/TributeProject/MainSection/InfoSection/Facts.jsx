@@ -1,7 +1,7 @@
 function Facts () {
     return (
-        <div className="text-xl">
-            <p><ul className="">
+        <div className="text-xl mt-4">
+            <p><ul className="flex flex-col gap-y-4">
                 <li>Born: 7 January 1945, Maseno</li>
                 <li>Died: 15 October 2025 (age 80 years), Devamatha Hospital, Koothattukulam, India</li>
                 <li>Children: Fidel Odinga, Winnie Odinga, Rosemary Odinga, Raila Odinga Jr.</li>
