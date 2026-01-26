@@ -1,5 +1,5 @@
-import History from "./History";
-import Facts from "./Facts";
+
+import { History,Facts } from "./Details";
 
 function InfoSection () {
     return (
